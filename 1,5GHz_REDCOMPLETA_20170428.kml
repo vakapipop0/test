@@ -1,0 +1,7865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder><name>Links</name>
+<Style id="linkstile1">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R Caapucú to SE Caapucú</name>
+<description>
+Path length: 0.59 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2h: 1504.5 (V) - 2l: 1439.5 (V)
+
+A R Caapucú:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -21.43
+TX Power: 31.00
+RX Threshold: -89.00
+
+SE Caapucú:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -21.43
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile1</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.178889,-26.231389,15.0
+-57.179722,-26.226111,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile2">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R Itapúa to S E Encarnación</name>
+<description>
+Path length: 3.46 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4l: 1453.5 (V) - 4h: 1518.5 (V)
+
+A R Itapúa:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -36.82
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Encarnación:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -36.82
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile2</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.861667,-27.341389,15.0
+-55.848333,-27.312500,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile3">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from AR Ma Auxiliadora to E Natalio</name>
+<description>
+Path length: 31.38 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+AR Ma Auxiliadora:
+Antenna Height: 20.0 (m)
+Antenna code: a3484
+Antenna model: KPR4F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.24
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Natalio:
+Antenna Height: 60.0 (m)
+Antenna code: a3484
+Antenna model: KPR4F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.24
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile3</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.253889,-26.527500,20.0
+-55.120556,-26.784167,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile4">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from AR Ma Auxiliadora to Rep Kimex</name>
+<description>
+Path length: 32.35 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+AR Ma Auxiliadora:
+Antenna Height: 30.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.61
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Kimex:
+Antenna Height: 15.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.61
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile4</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.253889,-26.527500,30.0
+-55.026944,-26.318889,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile5">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R Misiones to Rep Laureles</name>
+<description>
+Path length: 59.51 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+A R Misiones:
+Antenna Height: 60.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.81
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Laureles:
+Antenna Height: 55.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.81
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile5</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.026667,-26.885833,60.0
+-57.464167,-27.253333,55.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile6">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R San Estanislao to Rep Guayaibi</name>
+<description>
+Path length: 15.73 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+A R San Estanislao:
+Antenna Height: 30.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -44.31
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Guayaibi:
+Antenna Height: 30.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -44.31
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile6</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.446667,-24.673056,30.0
+-56.443611,-24.531111,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile7">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R San Estanislao to S E San Estanislao</name>
+<description>
+Path length: 5.44 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2h: 1504.5 (H) - 2l: 1439.5 (H)
+
+A R San Estanislao:
+Antenna Height: 20.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.78
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E San Estanislao:
+Antenna Height: 20.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.78
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile7</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.446667,-24.673056,20.0
+-56.393056,-24.669167,20.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile8">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R Santa Rita to CT Ciudad del Este</name>
+<description>
+Path length: 54.79 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2h: 1504.5 (H) - 2l: 1439.5 (H)
+
+A R Santa Rita:
+Antenna Height: 70.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.13
+TX Power: 31.00
+RX Threshold: -89.00
+
+CT Ciudad del Este:
+Antenna Height: 75.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.13
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile8</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.085556,-25.806111,70.0
+-54.640833,-25.519444,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile9">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from A R Santa Rita to PARANAMBU</name>
+<description>
+Path length: 54.80 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+A R Santa Rita:
+Antenna Height: 105.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.32
+TX Power: 31.00
+RX Threshold: -89.00
+
+PARANAMBU:
+Antenna Height: 105.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.32
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile9</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.085556,-25.806111,105.0
+-54.766111,-25.861389,105.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile10">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Asunción to Rep Chololo</name>
+<description>
+Path length: 62.93 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1432.25 (H) - 2h: 1481.25 (H)
+
+Asunción:
+Antenna Height: 65.0 (m)
+Antenna code: a3012
+Antenna model: KPR10F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.71
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Chololo:
+Antenna Height: 45.0 (m)
+Antenna code: a3012
+Antenna model: KPR10F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.70
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile10</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.612222,-25.288889,65.0
+-57.066944,-25.567222,45.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile11">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CC Cnel Bogado to E Cnel Bogado</name>
+<description>
+Path length: 5.53 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+CC Cnel Bogado:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Cnel Bogado:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile11</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.235000,-27.154722,30.0
+-56.197500,-27.191667,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile12">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CC Cnel Bogado to Rep Ctan Miranda</name>
+<description>
+Path length: 40.15 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+CC Cnel Bogado:
+Antenna Height: 70.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.71
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Ctan Miranda:
+Antenna Height: 60.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.71
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile12</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.235000,-27.154722,70.0
+-55.830000,-27.149167,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile13">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CC Cnel Bogado to SE S Pedro del Parana</name>
+<description>
+Path length: 33.92 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4l: 1453.5 (H) - 4h: 1518.5 (H)
+
+CC Cnel Bogado:
+Antenna Height: 70.0 (m)
+Antenna code: a3484
+Antenna model: KPR4F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -50.07
+TX Power: 31.00
+RX Threshold: -89.00
+
+SE S Pedro del Parana:
+Antenna Height: 70.0 (m)
+Antenna code: a3484
+Antenna model: KPR4F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -50.07
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile13</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.235000,-27.154722,70.0
+-56.210278,-26.849444,70.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile14">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CC Cnel Oviedo to Rep Carayao</name>
+<description>
+Path length: 33.20 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+CC Cnel Oviedo:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.94
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Carayao:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.94
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile14</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.448333,-25.468333,40.0
+-56.382222,-25.174722,40.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile15">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CC Cnel Oviedo to S E Villarrica</name>
+<description>
+Path length: 36.49 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4l: 1453.5 (H) - 4h: 1518.5 (H)
+
+CC Cnel Oviedo:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.92
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Villarrica:
+Antenna Height: 90.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.92
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile15</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.448333,-25.468333,50.0
+-56.436667,-25.797500,90.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile16">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CT Ciudad del Este to Rep Verbo Divino</name>
+<description>
+Path length: 36.98 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3l: 1446.5 (V) - 3h: 1511.5 (V)
+
+CT Ciudad del Este:
+Antenna Height: 75.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.40
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Verbo Divino:
+Antenna Height: 50.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.40
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile16</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.640833,-25.519444,75.0
+-54.868611,-25.257500,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile17">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Ayolas to Isla Yasy Reta</name>
+<description>
+Path length: 13.83 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+E Ayolas:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.96
+TX Power: 31.00
+RX Threshold: -89.00
+
+Isla Yasy Reta:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.96
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile17</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.785278,-27.363611,30.0
+-56.752778,-27.485000,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile18">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Ayolas to Ofic Ayolas</name>
+<description>
+Path length: 4.70 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+E Ayolas:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.47
+TX Power: 31.00
+RX Threshold: -89.00
+
+Ofic Ayolas:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.47
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile18</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.785278,-27.363611,15.0
+-56.826667,-27.384444,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile19">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Horqueta to Rep Arroyito</name>
+<description>
+Path length: 29.26 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4l: 1453.5 (H) - 4h: 1518.5 (H)
+
+E Horqueta:
+Antenna Height: 60.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.86
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Arroyito:
+Antenna Height: 75.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.86
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile19</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.998889,-23.328889,60.0
+-56.768889,-23.171944,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile20">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Horqueta to Rep Naranjaity</name>
+<description>
+Path length: 10.37 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+E Horqueta:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -46.39
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Naranjaity:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -46.39
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile20</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.998889,-23.328889,15.0
+-57.097222,-23.306111,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile21">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Ita Kyry to Rep Limoy</name>
+<description>
+Path length: 28.90 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3l: 1446.5 (H) - 3h: 1511.5 (H)
+
+E Ita Kyry:
+Antenna Height: 80.0 (m)
+Antenna code: a3826a
+Antenna model: KP4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.03
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Limoy:
+Antenna Height: 50.0 (m)
+Antenna code: a3826a
+Antenna model: KP4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.03
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile21</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.074444,-24.993611,80.0
+-54.891111,-24.793333,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile22">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Naranjal to A R Santa Rita</name>
+<description>
+Path length: 22.91 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+E Naranjal:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -35.66
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Santa Rita:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -35.66
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile22</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.125556,-26.009722,40.0
+-55.085556,-25.806111,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile23">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E San Patricio to E Ayolas</name>
+<description>
+Path length: 38.99 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3l: 1446.5 (H) - 3h: 1511.5 (H)
+
+E San Patricio:
+Antenna Height: 40.0 (m)
+Antenna code: a2827
+Antenna model: FPHP8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Ayolas:
+Antenna Height: 40.0 (m)
+Antenna code: a2827
+Antenna model: FPHP8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile23</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.799444,-27.011944,40.0
+-56.785278,-27.363611,40.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile24">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Santa Rosa to A R San Pedro</name>
+<description>
+Path length: 63.71 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+E Santa Rosa:
+Antenna Height: 90.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.61
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R San Pedro:
+Antenna Height: 90.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.61
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile24</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.530278,-23.823333,90.0
+-57.087222,-24.085833,90.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile25">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Santa Rosa to Rep Tacuati</name>
+<description>
+Path length: 43.06 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+E Santa Rosa:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.40
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Tacuati:
+Antenna Height: 100.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.40
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile25</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.530278,-23.823333,40.0
+-56.800556,-23.524722,100.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile26">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from E Villalbin to S E Pilar</name>
+<description>
+Path length: 48.06 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+E Villalbin:
+Antenna Height: 60.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.92
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Pilar:
+Antenna Height: 70.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.92
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile26</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.912222,-27.141944,60.0
+-58.296111,-26.877500,70.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile27">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Ofic Bella Vista Norte to Rep Itapopo</name>
+<description>
+Path length: 40.94 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+Ofic Bella Vista Norte:
+Antenna Height: 25.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.73
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Itapopo:
+Antenna Height: 25.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.73
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile27</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.300278,-22.540000,25.0
+-55.923611,-22.659722,25.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile28">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Acahay to Rep V Florida</name>
+<description>
+Path length: 39.94 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+Rep Acahay:
+Antenna Height: 35.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.51
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep V Florida:
+Antenna Height: 20.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.51
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile28</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.094167,-25.951389,35.0
+-57.154167,-26.307778,20.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile29">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Acahay to S E Quiindy</name>
+<description>
+Path length: 13.62 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+Rep Acahay:
+Antenna Height: 85.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.06
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Quiindy:
+Antenna Height: 85.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -49.06
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile29</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.094167,-25.951389,85.0
+-57.225833,-25.982222,85.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile30">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Arroyito to S E Yby Yau</name>
+<description>
+Path length: 30.18 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1h: 1497.5 (H) - 1l: 1432.5 (H)
+
+Rep Arroyito:
+Antenna Height: 30.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -50.02
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Yby Yau:
+Antenna Height: 20.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -50.02
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile30</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.768889,-23.171944,30.0
+-56.557500,-22.982222,20.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile31">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Capiibari to S E Curuguaty</name>
+<description>
+Path length: 42.41 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep Capiibari:
+Antenna Height: 50.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.57
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Curuguaty:
+Antenna Height: 50.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.57
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile31</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.013889,-24.720556,50.0
+-55.686667,-24.481667,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile32">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Carayao to Rep Unión</name>
+<description>
+Path length: 45.18 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4h: 1518.5 (V) - 4l: 1453.5 (V)
+
+Rep Carayao:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.63
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Unión:
+Antenna Height: 15.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.63
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile32</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.382222,-25.174722,40.0
+-56.364444,-24.767222,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile33">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Cerro Memby to S E C Bella Vista</name>
+<description>
+Path length: 26.26 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+Rep Cerro Memby:
+Antenna Height: 20.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.81
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E C Bella Vista:
+Antenna Height: 35.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.81
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile33</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.461111,-22.898889,20.0
+-56.283056,-22.728611,35.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile34">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Cerro Morití to A R Misiones</name>
+<description>
+Path length: 24.25 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2h: 1504.5 (H) - 2l: 1439.5 (H)
+
+Rep Cerro Morití:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.03
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Misiones:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.03
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile34</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.783333,-26.902500,15.0
+-57.026667,-26.885833,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile35">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Cerro Morití to CC Cnel Bogado</name>
+<description>
+Path length: 61.17 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+Rep Cerro Morití:
+Antenna Height: 20.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.89
+TX Power: 31.00
+RX Threshold: -89.00
+
+CC Cnel Bogado:
+Antenna Height: 20.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.89
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile35</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.783333,-26.902500,20.0
+-56.235000,-27.154722,20.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile36">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Cerro Morití to E San Patricio</name>
+<description>
+Path length: 12.23 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4h: 1518.5 (H) - 4l: 1453.5 (H)
+
+Rep Cerro Morití:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -47.82
+TX Power: 31.00
+RX Threshold: -89.00
+
+E San Patricio:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -47.82
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile36</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.783333,-26.902500,15.0
+-56.799444,-27.011944,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile37">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Chololo to Rep Acahay</name>
+<description>
+Path length: 42.65 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4h: 1518.5 (H) - 4l: 1453.5 (H)
+
+Rep Chololo:
+Antenna Height: 70.0 (m)
+Antenna code: a3012
+Antenna model: KPR10F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.21
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Acahay:
+Antenna Height: 40.0 (m)
+Antenna code: a3012
+Antenna model: KPR10F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.21
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile37</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.066944,-25.567222,70.0
+-57.094167,-25.951389,40.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile38">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Chore to E Santa Rosa</name>
+<description>
+Path length: 41.40 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+Rep Chore:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Santa Rosa:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.95
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile38</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.459444,-24.191389,50.0
+-56.530278,-23.823333,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile39">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Ctan Miranda to A R Itapúa</name>
+<description>
+Path length: 21.53 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2h: 1504.5 (V) - 2l: 1439.5 (V)
+
+Rep Ctan Miranda:
+Antenna Height: 60.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -52.94
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Itapúa:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -52.94
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile39</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.830000,-27.149167,60.0
+-55.861667,-27.341389,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile40">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Ctan Miranda to SE Trinidad</name>
+<description>
+Path length: 13.28 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep Ctan Miranda:
+Antenna Height: 50.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -42.82
+TX Power: 31.00
+RX Threshold: -89.00
+
+SE Trinidad:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -42.82
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile40</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.830000,-27.149167,50.0
+-55.698889,-27.124444,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile41">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Guayaibi to Rep Chore</name>
+<description>
+Path length: 37.66 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+Rep Guayaibi:
+Antenna Height: 30.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.02
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Chore:
+Antenna Height: 30.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.02
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile41</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.443611,-24.531111,30.0
+-56.459444,-24.191389,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile42">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Itapopo to A R Amambay</name>
+<description>
+Path length: 23.28 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep Itapopo:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -47.68
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Amambay:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -47.68
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile42</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.923611,-22.659722,15.0
+-55.729444,-22.551667,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile43">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Kimex to E C A López</name>
+<description>
+Path length: 34.02 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep Kimex:
+Antenna Height: 90.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.79
+TX Power: 31.00
+RX Threshold: -89.00
+
+E C A López:
+Antenna Height: 90.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.79
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile43</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.026944,-26.318889,90.0
+-54.713889,-26.440278,90.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile44">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Kimex to E Naranjal</name>
+<description>
+Path length: 35.65 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2h: 1504.5 (V) - 2l: 1439.5 (V)
+
+Rep Kimex:
+Antenna Height: 90.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.76
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Naranjal:
+Antenna Height: 90.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.76
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile44</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.026944,-26.318889,90.0
+-55.125556,-26.009722,90.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile45">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep La Paloma to A R Salto del Guiara</name>
+<description>
+Path length: 35.14 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1l: 1432.5 (V) - 1h: 1497.5 (V)
+
+Rep La Paloma:
+Antenna Height: 50.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.89
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Salto del Guiara:
+Antenna Height: 50.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.89
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile45</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.636389,-24.141944,50.0
+-54.304444,-24.053611,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile46">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Laureles to E Villalbin</name>
+<description>
+Path length: 46.08 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+Rep Laureles:
+Antenna Height: 60.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.52
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Villalbin:
+Antenna Height: 60.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -38.52
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile46</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.464167,-27.253333,60.0
+-57.912222,-27.141944,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile47">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Laurel to S E Katuete</name>
+<description>
+Path length: 27.98 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+Rep Laurel:
+Antenna Height: 15.0 (m)
+Antenna code: a3826a
+Antenna model: KP4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.51
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Katuete:
+Antenna Height: 15.0 (m)
+Antenna code: a3826a
+Antenna model: KP4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.51
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile47</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.825000,-24.506944,15.0
+-54.781667,-24.257500,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile48">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Limoy to Rep Laurel</name>
+<description>
+Path length: 32.42 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1h: 1497.5 (H) - 1l: 1432.5 (H)
+
+Rep Limoy:
+Antenna Height: 50.0 (m)
+Antenna code: a4096b
+Antenna model: KP8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.40
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Laurel:
+Antenna Height: 60.0 (m)
+Antenna code: a4096b
+Antenna model: KP8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -39.40
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile48</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.891111,-24.793333,50.0
+-54.825000,-24.506944,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile49">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Naranjaity to S E Concepción</name>
+<description>
+Path length: 33.64 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+1h: 1497.5 (V) - 1l: 1432.5 (V)
+
+Rep Naranjaity:
+Antenna Height: 75.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -51.22
+TX Power: 31.00
+RX Threshold: -89.00
+
+S E Concepción:
+Antenna Height: 75.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -51.22
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile49</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.097222,-23.306111,75.0
+-57.408056,-23.405556,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile50">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Pirapó to AR Ma Auxiliadora</name>
+<description>
+Path length: 54.21 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4h: 1518.5 (V) - 4l: 1453.5 (V)
+
+Rep Pirapó:
+Antenna Height: 75.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.03
+TX Power: 31.00
+RX Threshold: -89.00
+
+AR Ma Auxiliadora:
+Antenna Height: 75.0 (m)
+Antenna code: a2969d
+Antenna model: KP10F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.03
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile50</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.613889,-26.894722,75.0
+-55.253889,-26.527500,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile51">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Tacuati to E Horqueta</name>
+<description>
+Path length: 29.69 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep Tacuati:
+Antenna Height: 40.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.93
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Horqueta:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.93
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile51</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.800556,-23.524722,40.0
+-56.998889,-23.328889,50.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile52">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Unión to A R San Estanislao</name>
+<description>
+Path length: 13.34 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+Rep Unión:
+Antenna Height: 20.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -42.86
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R San Estanislao:
+Antenna Height: 40.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -42.86
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile52</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.364444,-24.767222,20.0
+-56.446667,-24.673056,40.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile53">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Unión to Rep Capiibari</name>
+<description>
+Path length: 35.84 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2l: 1439.5 (V) - 2h: 1504.5 (V)
+
+Rep Unión:
+Antenna Height: 55.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.14
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Capiibari:
+Antenna Height: 75.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.14
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile53</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.364444,-24.767222,55.0
+-56.013889,-24.720556,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile54">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep V Florida to A R Caapucú</name>
+<description>
+Path length: 8.82 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4l: 1453.5 (V) - 4h: 1518.5 (V)
+
+Rep V Florida:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -44.95
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Caapucú:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -44.95
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile54</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.154167,-26.307778,15.0
+-57.178889,-26.231389,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile55">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep V Florida to SE SJ Bautista</name>
+<description>
+Path length: 42.01 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+Rep V Florida:
+Antenna Height: 15.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.94
+TX Power: 31.00
+RX Threshold: -89.00
+
+SE SJ Bautista:
+Antenna Height: 30.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.94
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile55</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.154167,-26.307778,15.0
+-57.086111,-26.681944,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile56">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Rep Verbo Divino to E Ita Kyry</name>
+<description>
+Path length: 35.85 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2h: 1504.5 (V) - 2l: 1439.5 (V)
+
+Rep Verbo Divino:
+Antenna Height: 40.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.12
+TX Power: 31.00
+RX Threshold: -89.00
+
+E Ita Kyry:
+Antenna Height: 80.0 (m)
+Antenna code: a3488
+Antenna model: KPR8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.12
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile56</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.868611,-25.257500,40.0
+-55.074444,-24.993611,80.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile57">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E C Bella Vista to Ofic Bella Vista Norte</name>
+<description>
+Path length: 20.96 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+S E C Bella Vista:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -46.76
+TX Power: 31.00
+RX Threshold: -89.00
+
+Ofic Bella Vista Norte:
+Antenna Height: 15.0 (m)
+Antenna code: a1518e
+Antenna model: P4F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -46.76
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile57</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.283056,-22.728611,15.0
+-56.300278,-22.540000,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile58">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Concepción to A R Concepción</name>
+<description>
+Path length: 3.37 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2l: 1439.5 (V) - 2h: 1504.5 (V)
+
+S E Concepción:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -36.58
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Concepción:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -36.58
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile58</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.408056,-23.405556,15.0
+-57.440556,-23.410556,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile59">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Curuguaty to A R Curuguaty</name>
+<description>
+Path length: 2.09 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+S E Curuguaty:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -32.43
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Curuguaty:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -32.43
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile59</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.686667,-24.481667,15.0
+-55.699167,-24.466667,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile60">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Katuete to Rep La Paloma</name>
+<description>
+Path length: 19.54 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+3h: 1511.5 (V) - 3l: 1446.5 (V)
+
+S E Katuete:
+Antenna Height: 40.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -52.03
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep La Paloma:
+Antenna Height: 30.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -52.03
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile60</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.781667,-24.257500,40.0
+-54.636389,-24.141944,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile61">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Pilar to A R Ñeembucú</name>
+<description>
+Path length: 2.64 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4h: 1518.5 (H) - 4l: 1453.5 (H)
+
+S E Pilar:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -34.44
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Ñeembucú:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -34.44
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile61</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-58.296111,-26.877500,15.0
+-58.306389,-26.855556,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile62">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from SE SJ Bautista to Rep Cerro Morití</name>
+<description>
+Path length: 38.78 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+SE SJ Bautista:
+Antenna Height: 15.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.19
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Cerro Morití:
+Antenna Height: 15.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -40.19
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile62</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.086111,-26.681944,15.0
+-56.783333,-26.902500,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile63">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from SE Trinidad to Rep Pirapó</name>
+<description>
+Path length: 26.82 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1l: 1432.5 (H) - 1h: 1497.5 (H)
+
+SE Trinidad:
+Antenna Height: 50.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.10
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Pirapó:
+Antenna Height: 65.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.10
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile63</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-55.698889,-27.124444,50.0
+-55.613889,-26.894722,65.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile64">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Villarrica to A R Caazapa</name>
+<description>
+Path length: 42.24 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1h: 1497.5 (H) - 1l: 1432.5 (H)
+
+S E Villarrica:
+Antenna Height: 90.0 (m)
+Antenna code: a2594
+Antenna model: FP8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.59
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Caazapa:
+Antenna Height: 36.0 (m)
+Antenna code: a2594
+Antenna model: FP8F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -41.59
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile64</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.436667,-25.797500,90.0
+-56.371667,-26.174167,36.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile65">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Villarrica to A R Villarrica</name>
+<description>
+Path length: 1.46 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2h: 1504.5 (H) - 2l: 1439.5 (H)
+
+S E Villarrica:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -29.33
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Villarrica:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -29.33
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile65</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.436667,-25.797500,15.0
+-56.449444,-25.791111,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile66">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Yby Yau to A R Yby Yau</name>
+<description>
+Path length: 3.59 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+2l: 1439.5 (H) - 2h: 1504.5 (H)
+
+S E Yby Yau:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.14
+TX Power: 31.00
+RX Threshold: -89.00
+
+A R Yby Yau:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -37.14
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile66</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.557500,-22.982222,15.0
+-56.535556,-22.956944,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile67">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from S E Yby Yau to Rep Cerro Memby</name>
+<description>
+Path length: 13.52 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+3h: 1511.5 (H) - 3l: 1446.5 (H)
+
+S E Yby Yau:
+Antenna Height: 40.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.77
+TX Power: 31.00
+RX Threshold: -89.00
+
+Rep Cerro Memby:
+Antenna Height: 15.0 (m)
+Antenna code: a3482
+Antenna model: KPR3F-13
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -48.77
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile67</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.557500,-22.982222,40.0
+-56.461111,-22.898889,15.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile68">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to AREA 3</name>
+<description>
+Path length: 2.28 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -46.23
+TX Power: 37.00
+RX Threshold: -87.00
+
+AREA 3:
+Antenna Height: 11.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -46.23
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile68</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.623611,-25.529167,11.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile69">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to CMD 1</name>
+<description>
+Path length: 10.50 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.89
+TX Power: 37.00
+RX Threshold: -87.00
+
+CMD 1:
+Antenna Height: 26.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.89
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile69</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.614444,-25.416944,26.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile70">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to CMD 1</name>
+<description>
+Path length: 10.50 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.68
+TX Power: 37.00
+RX Threshold: -87.00
+
+CMD 1:
+Antenna Height: 24.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.68
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile70</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.614444,-25.416944,24.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile71">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to CMD 1</name>
+<description>
+Path length: 10.50 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.58
+TX Power: 37.00
+RX Threshold: -87.00
+
+CMD 1:
+Antenna Height: 21.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -60.58
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile71</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.614444,-25.416944,21.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile72">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to EBA 4-3</name>
+<description>
+Path length: 2.81 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.08
+TX Power: 37.00
+RX Threshold: -87.00
+
+EBA 4-3:
+Antenna Height: 18.5 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.08
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile72</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.630833,-25.535556,18.5
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile73">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to Hospital Tesai Areá 2-1</name>
+<description>
+Path length: 2.88 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.30
+TX Power: 37.00
+RX Threshold: -87.00
+
+Hospital Tesai Areá 2-1:
+Antenna Height: 22.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.30
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile73</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.610556,-25.526944,22.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile74">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to STA FE</name>
+<description>
+Path length: 33.38 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -56.54
+TX Power: 37.00
+RX Threshold: -87.00
+
+STA FE:
+Antenna Height: 24.0 (m)
+Antenna code: A1344
+Antenna model: GP8-15B
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -56.54
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile74</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.688889,-25.213333,24.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile75">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to STA FE</name>
+<description>
+Path length: 15.14 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -63.12
+TX Power: 37.00
+RX Threshold: -87.00
+
+STA FE:
+Antenna Height: 30.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -63.12
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile75</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.588056,-25.379722,30.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile76">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to Hospital Tesai Areá 2-1</name>
+<description>
+Path length: 2.88 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+2h: 1481.25 (V) - 2l: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OMNI
+Antenna model: OMNI
+Radio code: 2XE1
+Radio model: SR500
+RX Level: 44.70
+TX Power: 37.00
+RX Threshold: -87.00
+
+Hospital Tesai Areá 2-1:
+Antenna Height: 21.0 (m)
+Antenna code: OMNI
+Antenna model: OMNI
+Radio code: 2XE1
+Radio model: SR500
+RX Level: 44.70
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile76</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.610556,-25.526944,21.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile77">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from CA-CDE to Hospital Tesai Areá 2-1</name>
+<description>
+Path length: 2.88 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+H2: 1481.25 (V) - L2: 1432.25 (V)
+
+CA-CDE:
+Antenna Height: 60.0 (m)
+Antenna code: OM10
+Antenna model: Omnidireccional
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.30
+TX Power: 37.00
+RX Threshold: -87.00
+
+Hospital Tesai Areá 2-1:
+Antenna Height: 22.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -49.30
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile77</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.632500,-25.510278,60.0
+-54.610556,-25.526944,22.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile78">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from STA FE to Campamento central</name>
+<description>
+Path length: 38.94 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+L8: 1453.25 (V) - H8: 1502.25 (V)
+
+STA FE:
+Antenna Height: 24.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -53.82
+TX Power: 37.00
+RX Threshold: -87.00
+
+Campamento central:
+Antenna Height: 60.0 (m)
+Antenna code: A1344
+Antenna model: GP8-15B
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -53.82
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile78</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.688889,-25.213333,24.0
+-54.953611,-24.957500,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile79">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from STA FE to Itabo</name>
+<description>
+Path length: 16.28 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+L8: 1453.25 (V) - H8: 1502.25 (V)
+
+STA FE:
+Antenna Height: 24.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -58.30
+TX Power: 37.00
+RX Threshold: -87.00
+
+Itabo:
+Antenna Height: 45.0 (m)
+Antenna code: PHG1,5
+Antenna model: Panel HG
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -58.30
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile79</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.688889,-25.213333,24.0
+-54.710833,-25.067778,45.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile80">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from STA FE to LIMOY</name>
+<description>
+Path length: 64.69 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+L8: 1453.25 (V) - H8: 1502.25 (V)
+
+STA FE:
+Antenna Height: 24.0 (m)
+Antenna code: a1344
+Antenna model: GP8-15B
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -43.20
+TX Power: 37.00
+RX Threshold: -87.00
+
+LIMOY:
+Antenna Height: 60.0 (m)
+Antenna code: a1344
+Antenna model: GP8-15B
+Radio code: 2XE1
+Radio model: SR500
+RX Level: -43.20
+TX Power: 37.00
+RX Threshold: -87.00
+</description>
+<styleUrl>#linkstile80</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-54.688889,-25.213333,24.0
+-54.456389,-25.757778,60.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile81">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Est. Pozo Azul to Loma Plata</name>
+<description>
+Path length: 45.61 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+8h: 1518.5 (H) - 8l: 1453.5 (H)
+
+Est. Pozo Azul:
+Antenna Height: 28.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA08-16N
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -34.23
+TX Power: 34.00
+RX Threshold: -91.00
+
+Loma Plata:
+Antenna Height: 55.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA10-16N
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -34.23
+TX Power: 34.00
+RX Threshold: -91.00
+</description>
+<styleUrl>#linkstile81</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-59.396306,-22.238167,28.0
+-59.814400,-22.373300,55.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile82">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GH562 Centinela to GH101 Loma Plata(km180)</name>
+<description>
+Path length: 40.08 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+8l: 1453.5 (V) - 8h: 1518.5 (V)
+
+GH562 Centinela:
+Antenna Height: 30.0 (m)
+Antenna code: a1517d
+Antenna model: GKA10-16N
+Radio code: DXR100
+Radio model: XE1400
+RX Level: -36.04
+TX Power: 34.00
+RX Threshold: -90.00
+
+GH101 Loma Plata(km180):
+Antenna Height: 90.0 (m)
+Antenna code: a1517d
+Antenna model: GKA10-16N
+Radio code: DXR100
+Radio model: XE1400
+RX Level: -36.04
+TX Power: 34.00
+RX Threshold: -90.00
+</description>
+<styleUrl>#linkstile82</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-59.183400,-22.079539,30.0
+-59.570900,-22.056400,90.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile83">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GH770 RAMAL POZO CONCP1 to GH048 POZO COLORADO</name>
+<description>
+Path length: 36.05 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4l: 1439.5 (V) - 4h: 1504.5 (V)
+
+GH770 RAMAL POZO CONCP1:
+Antenna Height: 75.0 (m)
+Antenna code: a1158
+Antenna model: KP10-15D
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -34.33
+TX Power: 34.00
+RX Threshold: -85.00
+
+GH048 POZO COLORADO:
+Antenna Height: 85.0 (m)
+Antenna code: a1158
+Antenna model: KP10-15D
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -34.33
+TX Power: 34.00
+RX Threshold: -85.00
+</description>
+<styleUrl>#linkstile83</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-58.446697,-23.503278,75.0
+-58.799397,-23.490600,85.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile84">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GH771 RAMAL POZO CONC2 to GH772 RAMAL POZO CONC3</name>
+<description>
+Path length: 41.01 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4h: 1504.5 (H) - 4l: 1439.5 (H)
+
+GH771 RAMAL POZO CONC2:
+Antenna Height: 75.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA10-16N
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -34.24
+TX Power: 34.00
+RX Threshold: -85.00
+
+GH772 RAMAL POZO CONC3:
+Antenna Height: 85.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA10-16N
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -34.24
+TX Power: 34.00
+RX Threshold: -85.00
+</description>
+<styleUrl>#linkstile84</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-58.155581,-23.500639,75.0
+-57.754350,-23.513406,85.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile85">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from TIEGE to CRUCE PIONEROS</name>
+<description>
+Path length: 21.11 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+8l: 1453.5 (V) - 8h: 1518.5 (V)
+
+TIEGE:
+Antenna Height: 30.0 (m)
+Antenna code: PTS1500-3
+Antenna model: PTS1500-30
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -33.11
+TX Power: 34.00
+RX Threshold: -85.00
+
+CRUCE PIONEROS:
+Antenna Height: 65.0 (m)
+Antenna code: PTS1500-3
+Antenna model: PTS1500-30
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -33.11
+TX Power: 34.00
+RX Threshold: -85.00
+</description>
+<styleUrl>#linkstile85</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-59.941944,-22.776944,30.0
+-59.749444,-22.843889,65.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile86">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GM647 Est. Pozo Azul to GH047 Loma Plata</name>
+<description>
+Path length: 45.61 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+4h: 1504.5 (H) - 4l: 1439.5 (H)
+
+GM647 Est. Pozo Azul:
+Antenna Height: 28.0 (m)
+Antenna code: a1515
+Antenna model: PL8F-15
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -39.99
+TX Power: 34.00
+RX Threshold: -91.00
+
+GH047 Loma Plata:
+Antenna Height: 55.0 (m)
+Antenna code: a1517d
+Antenna model: PL10F-15
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -39.99
+TX Power: 34.00
+RX Threshold: -91.00
+</description>
+<styleUrl>#linkstile86</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-59.396306,-22.238167,28.0
+-59.814400,-22.373300,55.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile87">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GM648 Est. Lagun Pora to GH307 Cruce Pionero</name>
+<description>
+Path length: 38.96 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+7l: 1450. (V) - 7h: 1515. (V)
+
+GM648 Est. Lagun Pora:
+Antenna Height: 30.0 (m)
+Antenna code: a1346
+Antenna model: GP10-15B
+Radio code: SIAE 1,5 GHZ
+Radio model: XE1400_ 1,5 GHZ
+RX Level: -39.18
+TX Power: 31.00
+RX Threshold: -89.00
+
+GH307 Cruce Pionero:
+Antenna Height: 75.0 (m)
+Antenna code: a1346
+Antenna model: GKA10-16N
+Radio code: SIAE 1,5 GHZ
+Radio model: XE1400_ 1,5 GHZ
+RX Level: -39.18
+TX Power: 31.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile87</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-59.446917,-22.490750,30.0
+-59.771500,-22.672100,75.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile88">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GN127 Puerto Yvapovo to GN250 Concepcion</name>
+<description>
+Path length: 27.50 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+4h: 1504.5 (V) - 4l: 1439.5 (V)
+
+GN127 Puerto Yvapovo:
+Antenna Height: 30.0 (m)
+Antenna code: a1517d
+Antenna model: PL10F-15
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -33.49
+TX Power: 34.00
+RX Threshold: -81.00
+
+GN250 Concepcion:
+Antenna Height: 65.0 (m)
+Antenna code: a1517d
+Antenna model: PL10F-15
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -33.49
+TX Power: 34.00
+RX Threshold: -81.00
+</description>
+<styleUrl>#linkstile88</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.396139,-23.656531,30.0
+-57.440697,-23.411697,65.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile89">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GO882 COLONIA GUARANI to GO578 YROYSA LINEA 13</name>
+<description>
+Path length: 5.13 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+7l: 1450. (V) - 7h: 1515. (V)
+
+GO882 COLONIA GUARANI:
+Antenna Height: 30.0 (m)
+Antenna code: G448555
+Antenna model: GKA10-16N
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -26.99
+TX Power: 25.00
+RX Threshold: -83.00
+
+GO578 YROYSA LINEA 13:
+Antenna Height: 84.0 (m)
+Antenna code: G448555
+Antenna model: GKA10-16N
+Radio code: SIAE 1,5 GHZ
+Radio model: SIAE 1,5 GHZ
+RX Level: -26.99
+TX Power: 25.00
+RX Threshold: -83.00
+</description>
+<styleUrl>#linkstile89</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.066700,-25.898900,30.0
+-56.047600,-25.855900,84.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile90">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from LAUREL (CONCEPCION) to PUENTESIÑO</name>
+<description>
+Path length: 40.89 (km)
+Design Frequency: 1450. (V)
+
+Channel Frequency:
+4h: 1504.5 (V) - 4l: 1439.5 (V)
+
+LAUREL (CONCEPCION):
+Antenna Height: 115.0 (m)
+Antenna code: PTS1500-3
+Antenna model: PTS1500-30
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -38.67
+TX Power: 34.00
+RX Threshold: -85.00
+
+PUENTESIÑO:
+Antenna Height: 115.0 (m)
+Antenna code: PTS1500-3
+Antenna model: PTS1500-30
+Radio code: XE1400_3M5_QPSK
+Radio model: XE1400_3M5_QPSK
+RX Level: -38.67
+TX Power: 34.00
+RX Threshold: -85.00
+</description>
+<styleUrl>#linkstile90</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.289167,-22.250000,115.0
+-56.918889,-22.382778,115.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile91">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from GH772 RamalPozoConcpIII to GN250 Concepcion</name>
+<description>
+Path length: 33.97 (km)
+Design Frequency: 1500. (V)
+
+Channel Frequency:
+7l: 1450. (V) - 7h: 1515. (V)
+
+GH772 RamalPozoConcpIII:
+Antenna Height: 85.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA10-16N
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -33.00
+TX Power: 34.00
+RX Threshold: -85.00
+
+GN250 Concepcion:
+Antenna Height: 65.0 (m)
+Antenna code: GKA10-16
+Antenna model: GKA10-16N
+Radio code: XE1400_3M5_16Q
+Radio model: XE1400_3M5_16Q
+RX Level: -33.00
+TX Power: 34.00
+RX Threshold: -85.00
+</description>
+<styleUrl>#linkstile91</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-57.754350,-23.513408,85.0
+-57.440697,-23.411694,65.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile92">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Central Hidroelectrica to Oficina Isla Yasyreta</name>
+<description>
+Path length: 1.93 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+1: 1441. (H) - 1': 1495. (H)
+
+Central Hidroelectrica:
+Antenna Height: 20.0 (m)
+Antenna code: g5397
+Antenna model: GHF3-15
+Radio code: 4X2
+Radio model: CTR210
+RX Level: -30.33
+TX Power: 34.00
+RX Threshold: -94.50
+
+Oficina Isla Yasyreta:
+Antenna Height: 25.0 (m)
+Antenna code: g5397
+Antenna model: GHF3-15
+Radio code: 4X2
+Radio model: CTR210
+RX Level: -30.33
+TX Power: 34.00
+RX Threshold: -94.50
+</description>
+<styleUrl>#linkstile92</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.742500,-27.481111,20.0
+-56.760556,-27.487778,25.0
+</coordinates>
+</LineString>
+</Placemark>
+<Style id="linkstile93">      
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+<PolyStyle>
+		<color>30000000</color>         
+</PolyStyle>
+</Style>  
+<Placemark>
+<name>Link from Central Hidroelectrica to Villa Permanente</name>
+<description>
+Path length: 17.62 (km)
+Design Frequency: 1500. (H)
+
+Channel Frequency:
+: 1503. (H) - : 1446.5 (H)
+
+Central Hidroelectrica:
+Antenna Height: 40.0 (m)
+Antenna code: a3486
+Antenna model: KPR6F-13
+Radio code: 4X2
+Radio model: CTR120
+RX Level: -45.47
+TX Power: 27.00
+RX Threshold: -89.00
+
+Villa Permanente:
+Antenna Height: 25.0 (m)
+Antenna code: a3486
+Antenna model: KPR6F-13
+Radio code: 4X2
+Radio model: CTR120
+RX Level: -45.47
+TX Power: 27.00
+RX Threshold: -89.00
+</description>
+<styleUrl>#linkstile93</styleUrl>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>
+-56.742500,-27.481111,40.0
+-56.675833,-27.628611,25.0
+</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+<Folder><name>Sites</name>
+<Style id="sitestile1">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Caapucú</name>
+<styleUrl>#sitestile1</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.178889,-26.231389,42.000000</coordinates>
+</Point>
+<description>
+Lat: -26.231389
+Lng: -57.178889
+Elevation: 115.7 (m)
+OwnerCode: ANDE
+CallSign: S6550
+StatCode: S6550
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile2">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>SE Caapucú</name>
+<styleUrl>#sitestile2</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.179722,-26.226111,18.000000</coordinates>
+</Point>
+<description>
+Lat: -26.226111
+Lng: -57.179722
+Elevation: 113.3 (m)
+OwnerCode: ANDE
+CallSign: S6551
+StatCode: S6551
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile3">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Itapúa</name>
+<styleUrl>#sitestile3</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.861667,-27.341389,54.000000</coordinates>
+</Point>
+<description>
+Lat: -27.341389
+Lng: -55.861667
+Elevation: 76.7 (m)
+OwnerCode: ANDE
+CallSign: S6576
+StatCode: S6576
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile4">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Encarnación</name>
+<styleUrl>#sitestile4</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.848333,-27.312500,18.000000</coordinates>
+</Point>
+<description>
+Lat: -27.312500
+Lng: -55.848333
+Elevation: 79.8 (m)
+OwnerCode: ANDE
+CallSign: S6577
+StatCode: S6577
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile5">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>AR Ma Auxiliadora</name>
+<styleUrl>#sitestile5</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.253889,-26.527500,78.000000</coordinates>
+</Point>
+<description>
+Lat: -26.527500
+Lng: -55.253889
+Elevation: 328.5 (m)
+OwnerCode: ANDE
+CallSign: S6578
+StatCode: S6578
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile6">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Natalio</name>
+<styleUrl>#sitestile6</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.120556,-26.784167,72.000000</coordinates>
+</Point>
+<description>
+Lat: -26.784167
+Lng: -55.120556
+Elevation: 208.8 (m)
+OwnerCode: ANDE
+CallSign: S6579
+StatCode: S6579
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile7">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Kimex</name>
+<styleUrl>#sitestile7</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.026944,-26.318889,90.000000</coordinates>
+</Point>
+<description>
+Lat: -26.318889
+Lng: -55.026944
+Elevation: 377.8 (m)
+OwnerCode: ANDE
+CallSign: S6539
+StatCode: S6539
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile8">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Misiones</name>
+<styleUrl>#sitestile8</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.026667,-26.885833,60.000000</coordinates>
+</Point>
+<description>
+Lat: -26.885833
+Lng: -57.026667
+Elevation: 131.2 (m)
+OwnerCode: ANDE
+CallSign: S6554
+StatCode: S6554
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile9">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Laureles</name>
+<styleUrl>#sitestile9</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.464167,-27.253333,60.000000</coordinates>
+</Point>
+<description>
+Lat: -27.253333
+Lng: -57.464167
+Elevation: 49.9 (m)
+OwnerCode: ANDE
+CallSign: S6555
+StatCode: S6555
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile10">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R San Estanislao</name>
+<styleUrl>#sitestile10</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.446667,-24.673056,42.000000</coordinates>
+</Point>
+<description>
+Lat: -24.673056
+Lng: -56.446667
+Elevation: 193.2 (m)
+OwnerCode: ANDE
+CallSign: S6610
+StatCode: S6610
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile11">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Guayaibi</name>
+<styleUrl>#sitestile11</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.443611,-24.531111,36.000000</coordinates>
+</Point>
+<description>
+Lat: -24.531111
+Lng: -56.443611
+Elevation: 310.6 (m)
+OwnerCode: ANDE
+CallSign: S6611
+StatCode: S6611
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile12">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E San Estanislao</name>
+<styleUrl>#sitestile12</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.393056,-24.669167,60.000000</coordinates>
+</Point>
+<description>
+Lat: -24.669167
+Lng: -56.393056
+Elevation: 213.6 (m)
+OwnerCode: ANDE
+CallSign: S6627
+StatCode: S6627
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile13">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Santa Rita</name>
+<styleUrl>#sitestile13</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.085556,-25.806111,105.000000</coordinates>
+</Point>
+<description>
+Lat: -25.806111
+Lng: -55.085556
+Elevation: 273.3 (m)
+OwnerCode: ANDE
+CallSign: S6544
+StatCode: S6544
+Tower Height: 105.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile14">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CT Ciudad del Este</name>
+<styleUrl>#sitestile14</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.640833,-25.519444,75.000000</coordinates>
+</Point>
+<description>
+Lat: -25.519444
+Lng: -54.640833
+Elevation: 211.9 (m)
+OwnerCode: ANDE
+CallSign: S6545
+StatCode: S6545
+Tower Height: 75.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile15">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Santa Rita</name>
+<styleUrl>#sitestile15</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.085556,-25.806111,105.000000</coordinates>
+</Point>
+<description>
+Lat: -25.806111
+Lng: -55.085556
+Elevation: 273.3 (m)
+OwnerCode: ANDE
+CallSign: S6544_1
+StatCode: S6544_1
+Tower Height: 105.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile16">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>PARANAMBU</name>
+<styleUrl>#sitestile16</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.766111,-25.861389,105.000000</coordinates>
+</Point>
+<description>
+Lat: -25.861389
+Lng: -54.766111
+Elevation: 211.9 (m)
+OwnerCode: ANDE
+CallSign: S6545_2
+StatCode: S6545_2
+Tower Height: 105.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile17">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Asunción</name>
+<styleUrl>#sitestile17</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.612222,-25.288889,84.000000</coordinates>
+</Point>
+<description>
+Lat: -25.288889
+Lng: -57.612222
+Elevation: 124.7 (m)
+OwnerCode: ANDE
+CallSign: S6518
+StatCode: S6518
+Tower Height: 84.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile18">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Chololo</name>
+<styleUrl>#sitestile18</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.066944,-25.567222,72.000000</coordinates>
+</Point>
+<description>
+Lat: -25.567222
+Lng: -57.066944
+Elevation: 354.5 (m)
+OwnerCode: ANDE
+CallSign: S6519
+StatCode: S6519
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile19">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CC Cnel Bogado</name>
+<styleUrl>#sitestile19</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.235000,-27.154722,72.000000</coordinates>
+</Point>
+<description>
+Lat: -27.154722
+Lng: -56.235000
+Elevation: 97.8 (m)
+OwnerCode: ANDE
+CallSign: S6570
+StatCode: S6570
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile20">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Cnel Bogado</name>
+<styleUrl>#sitestile20</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.197500,-27.191667,36.000000</coordinates>
+</Point>
+<description>
+Lat: -27.191667
+Lng: -56.197500
+Elevation: 99.7 (m)
+OwnerCode: ANDE
+CallSign: S6571
+StatCode: S6571
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile21">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Ctan Miranda</name>
+<styleUrl>#sitestile21</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.830000,-27.149167,60.000000</coordinates>
+</Point>
+<description>
+Lat: -27.149167
+Lng: -55.830000
+Elevation: 206.5 (m)
+OwnerCode: ANDE
+CallSign: S6531
+StatCode: S6531
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile22">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>SE S Pedro del Parana</name>
+<styleUrl>#sitestile22</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.210278,-26.849444,72.000000</coordinates>
+</Point>
+<description>
+Lat: -26.849444
+Lng: -56.210278
+Elevation: 113.2 (m)
+OwnerCode: ANDE
+CallSign: S6573
+StatCode: S6573
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile23">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CC Cnel Oviedo</name>
+<styleUrl>#sitestile23</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.448333,-25.468333,54.000000</coordinates>
+</Point>
+<description>
+Lat: -25.468333
+Lng: -56.448333
+Elevation: 145.7 (m)
+OwnerCode: ANDE
+CallSign: S6604
+StatCode: S6604
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile24">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Carayao</name>
+<styleUrl>#sitestile24</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.382222,-25.174722,42.000000</coordinates>
+</Point>
+<description>
+Lat: -25.174722
+Lng: -56.382222
+Elevation: 151.9 (m)
+OwnerCode: ANDE
+CallSign: S6605
+StatCode: S6605
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile25">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Villarrica</name>
+<styleUrl>#sitestile25</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.436667,-25.797500,90.000000</coordinates>
+</Point>
+<description>
+Lat: -25.797500
+Lng: -56.436667
+Elevation: 141.1 (m)
+OwnerCode: ANDE
+CallSign: S6621
+StatCode: S6621
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile26">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Verbo Divino</name>
+<styleUrl>#sitestile26</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.868611,-25.257500,54.000000</coordinates>
+</Point>
+<description>
+Lat: -25.257500
+Lng: -54.868611
+Elevation: 236.5 (m)
+OwnerCode: ANDE
+CallSign: S6585
+StatCode: S6585
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile27">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Ayolas</name>
+<styleUrl>#sitestile27</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.785278,-27.363611,42.000000</coordinates>
+</Point>
+<description>
+Lat: -27.363611
+Lng: -56.785278
+Elevation: 60.1 (m)
+OwnerCode: ANDE
+CallSign: S6568
+StatCode: S6568
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile28">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Isla Yasy Reta</name>
+<styleUrl>#sitestile28</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.752778,-27.485000,30.000000</coordinates>
+</Point>
+<description>
+Lat: -27.485000
+Lng: -56.752778
+Elevation: 48.9 (m)
+OwnerCode: ANDE
+CallSign: S6569
+StatCode: S6569
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile29">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Ofic Ayolas</name>
+<styleUrl>#sitestile29</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.826667,-27.384444,24.000000</coordinates>
+</Point>
+<description>
+Lat: -27.384444
+Lng: -56.826667
+Elevation: 62.2 (m)
+OwnerCode: ANDE
+CallSign: S6567
+StatCode: S6567
+Tower Height: 24.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile30">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Horqueta</name>
+<styleUrl>#sitestile30</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.998889,-23.328889,60.000000</coordinates>
+</Point>
+<description>
+Lat: -23.328889
+Lng: -56.998889
+Elevation: 134.1 (m)
+OwnerCode: ANDE
+CallSign: S6636
+StatCode: S6636
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile31">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Arroyito</name>
+<styleUrl>#sitestile31</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.768889,-23.171944,78.000000</coordinates>
+</Point>
+<description>
+Lat: -23.171944
+Lng: -56.768889
+Elevation: 200.3 (m)
+OwnerCode: ANDE
+CallSign: S6637
+StatCode: S6637
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile32">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Naranjaity</name>
+<styleUrl>#sitestile32</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.097222,-23.306111,78.000000</coordinates>
+</Point>
+<description>
+Lat: -23.306111
+Lng: -57.097222
+Elevation: 78.8 (m)
+OwnerCode: ANDE
+CallSign: S6631
+StatCode: S6631
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile33">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Ita Kyry</name>
+<styleUrl>#sitestile33</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.074444,-24.993611,88.000000</coordinates>
+</Point>
+<description>
+Lat: -24.993611
+Lng: -55.074444
+Elevation: 284.6 (m)
+OwnerCode: ANDE
+CallSign: S6587
+StatCode: S6587
+Tower Height: 88.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile34">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Limoy</name>
+<styleUrl>#sitestile34</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.891111,-24.793333,60.000000</coordinates>
+</Point>
+<description>
+Lat: -24.793333
+Lng: -54.891111
+Elevation: 352.7 (m)
+OwnerCode: ANDE
+CallSign: S6586
+StatCode: S6586
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile35">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Naranjal</name>
+<styleUrl>#sitestile35</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.125556,-26.009722,90.000000</coordinates>
+</Point>
+<description>
+Lat: -26.009722
+Lng: -55.125556
+Elevation: 255.4 (m)
+OwnerCode: ANDE
+CallSign: S6542
+StatCode: S6542
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile36">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E San Patricio</name>
+<styleUrl>#sitestile36</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.799444,-27.011944,60.000000</coordinates>
+</Point>
+<description>
+Lat: -27.011944
+Lng: -56.799444
+Elevation: 140.0 (m)
+OwnerCode: ANDE
+CallSign: S6564
+StatCode: S6564
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile37">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Santa Rosa</name>
+<styleUrl>#sitestile37</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.530278,-23.823333,90.000000</coordinates>
+</Point>
+<description>
+Lat: -23.823333
+Lng: -56.530278
+Elevation: 157.9 (m)
+OwnerCode: ANDE
+CallSign: S6628
+StatCode: S6628
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile38">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R San Pedro</name>
+<styleUrl>#sitestile38</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.087222,-24.085833,90.000000</coordinates>
+</Point>
+<description>
+Lat: -24.085833
+Lng: -57.087222
+Elevation: 72.4 (m)
+OwnerCode: ANDE
+CallSign: S6629
+StatCode: S6629
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile39">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Tacuati</name>
+<styleUrl>#sitestile39</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.800556,-23.524722,102.000000</coordinates>
+</Point>
+<description>
+Lat: -23.524722
+Lng: -56.800556
+Elevation: 215.5 (m)
+OwnerCode: ANDE
+CallSign: S6617
+StatCode: S6617
+Tower Height: 102.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile40">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E Villalbin</name>
+<styleUrl>#sitestile40</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.912222,-27.141944,63.000000</coordinates>
+</Point>
+<description>
+Lat: -27.141944
+Lng: -57.912222
+Elevation: 61.7 (m)
+OwnerCode: ANDE
+CallSign: S6558
+StatCode: S6558
+Tower Height: 63.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile41">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Pilar</name>
+<styleUrl>#sitestile41</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-58.296111,-26.877500,72.000000</coordinates>
+</Point>
+<description>
+Lat: -26.877500
+Lng: -58.296111
+Elevation: 49.2 (m)
+OwnerCode: ANDE
+CallSign: S6559
+StatCode: S6559
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile42">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Ofic Bella Vista Norte</name>
+<styleUrl>#sitestile42</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.300278,-22.540000,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.540000
+Lng: -56.300278
+Elevation: 367.8 (m)
+OwnerCode: ANDE
+CallSign: S6648
+StatCode: S6648
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile43">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Itapopo</name>
+<styleUrl>#sitestile43</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.923611,-22.659722,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.659722
+Lng: -55.923611
+Elevation: 513.9 (m)
+OwnerCode: ANDE
+CallSign: S6649
+StatCode: S6649
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile44">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Acahay</name>
+<styleUrl>#sitestile44</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.094167,-25.951389,90.000000</coordinates>
+</Point>
+<description>
+Lat: -25.951389
+Lng: -57.094167
+Elevation: 208.2 (m)
+OwnerCode: ANDE
+CallSign: S6522
+StatCode: S6522
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile45">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep V Florida</name>
+<styleUrl>#sitestile45</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.154167,-26.307778,42.000000</coordinates>
+</Point>
+<description>
+Lat: -26.307778
+Lng: -57.154167
+Elevation: 136.4 (m)
+OwnerCode: ANDE
+CallSign: S6523
+StatCode: S6523
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile46">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Quiindy</name>
+<styleUrl>#sitestile46</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.225833,-25.982222,90.000000</coordinates>
+</Point>
+<description>
+Lat: -25.982222
+Lng: -57.225833
+Elevation: 176.3 (m)
+OwnerCode: ANDE
+CallSign: S6547
+StatCode: S6547
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile47">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Yby Yau</name>
+<styleUrl>#sitestile47</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.557500,-22.982222,42.000000</coordinates>
+</Point>
+<description>
+Lat: -22.982222
+Lng: -56.557500
+Elevation: 182.2 (m)
+OwnerCode: ANDE
+CallSign: S6639
+StatCode: S6639
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile48">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Capiibari</name>
+<styleUrl>#sitestile48</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.013889,-24.720556,78.000000</coordinates>
+</Point>
+<description>
+Lat: -24.720556
+Lng: -56.013889
+Elevation: 298.9 (m)
+OwnerCode: ANDE
+CallSign: S6600
+StatCode: S6600
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile49">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Curuguaty</name>
+<styleUrl>#sitestile49</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.686667,-24.481667,54.000000</coordinates>
+</Point>
+<description>
+Lat: -24.481667
+Lng: -55.686667
+Elevation: 223.9 (m)
+OwnerCode: ANDE
+CallSign: S6601
+StatCode: S6601
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile50">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Unión</name>
+<styleUrl>#sitestile50</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.364444,-24.767222,60.000000</coordinates>
+</Point>
+<description>
+Lat: -24.767222
+Lng: -56.364444
+Elevation: 294.6 (m)
+OwnerCode: ANDE
+CallSign: S6607
+StatCode: S6607
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile51">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Cerro Memby</name>
+<styleUrl>#sitestile51</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.461111,-22.898889,24.000000</coordinates>
+</Point>
+<description>
+Lat: -22.898889
+Lng: -56.461111
+Elevation: 213.0 (m)
+OwnerCode: ANDE
+CallSign: S6644
+StatCode: S6644
+Tower Height: 24.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile52">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E C Bella Vista</name>
+<styleUrl>#sitestile52</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.283056,-22.728611,36.000000</coordinates>
+</Point>
+<description>
+Lat: -22.728611
+Lng: -56.283056
+Elevation: 220.1 (m)
+OwnerCode: ANDE
+CallSign: S6645
+StatCode: S6645
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile53">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Cerro Morití</name>
+<styleUrl>#sitestile53</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.783333,-26.902500,35.000000</coordinates>
+</Point>
+<description>
+Lat: -26.902500
+Lng: -56.783333
+Elevation: 220.8 (m)
+OwnerCode: ANDE
+CallSign: S6552
+StatCode: S6552
+Tower Height: 35.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile54">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Chore</name>
+<styleUrl>#sitestile54</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.459444,-24.191389,54.000000</coordinates>
+</Point>
+<description>
+Lat: -24.191389
+Lng: -56.459444
+Elevation: 205.4 (m)
+OwnerCode: ANDE
+CallSign: S6614
+StatCode: S6614
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile55">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>SE Trinidad</name>
+<styleUrl>#sitestile55</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.698889,-27.124444,54.000000</coordinates>
+</Point>
+<description>
+Lat: -27.124444
+Lng: -55.698889
+Elevation: 106.6 (m)
+OwnerCode: ANDE
+CallSign: S6533
+StatCode: S6533
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile56">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Amambay</name>
+<styleUrl>#sitestile56</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.729444,-22.551667,18.000000</coordinates>
+</Point>
+<description>
+Lat: -22.551667
+Lng: -55.729444
+Elevation: 661.4 (m)
+OwnerCode: ANDE
+CallSign: S6651
+StatCode: S6651
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile57">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>E C A López</name>
+<styleUrl>#sitestile57</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.713889,-26.440278,90.000000</coordinates>
+</Point>
+<description>
+Lat: -26.440278
+Lng: -54.713889
+Elevation: 143.7 (m)
+OwnerCode: ANDE
+CallSign: S6581
+StatCode: S6581
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile58">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep La Paloma</name>
+<styleUrl>#sitestile58</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.636389,-24.141944,54.000000</coordinates>
+</Point>
+<description>
+Lat: -24.141944
+Lng: -54.636389
+Elevation: 351.8 (m)
+OwnerCode: ANDE
+CallSign: S6596
+StatCode: S6596
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile59">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Salto del Guiara</name>
+<styleUrl>#sitestile59</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.304444,-24.053611,54.000000</coordinates>
+</Point>
+<description>
+Lat: -24.053611
+Lng: -54.304444
+Elevation: 267.5 (m)
+OwnerCode: ANDE
+CallSign: S6597
+StatCode: S6597
+Tower Height: 54.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile60">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Laurel</name>
+<styleUrl>#sitestile60</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.825000,-24.506944,60.000000</coordinates>
+</Point>
+<description>
+Lat: -24.506944
+Lng: -54.825000
+Elevation: 392.5 (m)
+OwnerCode: ANDE
+CallSign: S6591
+StatCode: S6591
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile61">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Katuete</name>
+<styleUrl>#sitestile61</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.781667,-24.257500,42.000000</coordinates>
+</Point>
+<description>
+Lat: -24.257500
+Lng: -54.781667
+Elevation: 351.9 (m)
+OwnerCode: ANDE
+CallSign: S6590
+StatCode: S6590
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile62">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>S E Concepción</name>
+<styleUrl>#sitestile62</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.408056,-23.405556,78.000000</coordinates>
+</Point>
+<description>
+Lat: -23.405556
+Lng: -57.408056
+Elevation: 46.5 (m)
+OwnerCode: ANDE
+CallSign: S6633
+StatCode: S6633
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile63">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Rep Pirapó</name>
+<styleUrl>#sitestile63</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.613889,-26.894722,78.000000</coordinates>
+</Point>
+<description>
+Lat: -26.894722
+Lng: -55.613889
+Elevation: 234.2 (m)
+OwnerCode: ANDE
+CallSign: S6536
+StatCode: S6536
+Tower Height: 78.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile64">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>SE SJ Bautista</name>
+<styleUrl>#sitestile64</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.086111,-26.681944,36.000000</coordinates>
+</Point>
+<description>
+Lat: -26.681944
+Lng: -57.086111
+Elevation: 140.7 (m)
+OwnerCode: ANDE
+CallSign: S6525
+StatCode: S6525
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile65">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Concepción</name>
+<styleUrl>#sitestile65</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.440556,-23.410556,36.000000</coordinates>
+</Point>
+<description>
+Lat: -23.410556
+Lng: -57.440556
+Elevation: 44.0 (m)
+OwnerCode: ANDE
+CallSign: S6635
+StatCode: S6635
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile66">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Curuguaty</name>
+<styleUrl>#sitestile66</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-55.699167,-24.466667,18.000000</coordinates>
+</Point>
+<description>
+Lat: -24.466667
+Lng: -55.699167
+Elevation: 199.7 (m)
+OwnerCode: ANDE
+CallSign: S6603
+StatCode: S6603
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile67">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Ñeembucú</name>
+<styleUrl>#sitestile67</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-58.306389,-26.855556,18.000000</coordinates>
+</Point>
+<description>
+Lat: -26.855556
+Lng: -58.306389
+Elevation: 52.2 (m)
+OwnerCode: ANDE
+CallSign: S6561
+StatCode: S6561
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile68">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Caazapa</name>
+<styleUrl>#sitestile68</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.371667,-26.174167,36.000000</coordinates>
+</Point>
+<description>
+Lat: -26.174167
+Lng: -56.371667
+Elevation: 126.3 (m)
+OwnerCode: ANDE
+CallSign: S6625
+StatCode: S6625
+Tower Height: 36.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile69">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Villarrica</name>
+<styleUrl>#sitestile69</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.449444,-25.791111,18.000000</coordinates>
+</Point>
+<description>
+Lat: -25.791111
+Lng: -56.449444
+Elevation: 135.0 (m)
+OwnerCode: ANDE
+CallSign: S6623
+StatCode: S6623
+Tower Height: 18.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile70">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>A R Yby Yau</name>
+<styleUrl>#sitestile70</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.535556,-22.956944,42.000000</coordinates>
+</Point>
+<description>
+Lat: -22.956944
+Lng: -56.535556
+Elevation: 157.7 (m)
+OwnerCode: ANDE
+CallSign: S6641
+StatCode: S6641
+Tower Height: 42.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile71">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CA-CDE</name>
+<styleUrl>#sitestile71</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.632500,-25.510278,66.000000</coordinates>
+</Point>
+<description>
+Lat: -25.510278
+Lng: -54.632500
+Elevation: 194.3 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6446
+StatCode: S6446
+Tower Height: 66.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile72">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>AREA 3</name>
+<styleUrl>#sitestile72</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.623611,-25.529167,11.000000</coordinates>
+</Point>
+<description>
+Lat: -25.529167
+Lng: -54.623611
+Elevation: 202.4 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6447
+StatCode: S6447
+Tower Height: 11.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile73">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CMD 1</name>
+<styleUrl>#sitestile73</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.614444,-25.416944,60.000000</coordinates>
+</Point>
+<description>
+Lat: -25.416944
+Lng: -54.614444
+Elevation: 224.2 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6451
+StatCode: S6451
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile74">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>EBA 4-3</name>
+<styleUrl>#sitestile74</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.630833,-25.535556,30.000000</coordinates>
+</Point>
+<description>
+Lat: -25.535556
+Lng: -54.630833
+Elevation: 212.5 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6445
+StatCode: S6445
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile75">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Hospital Tesai Areá 2-1</name>
+<styleUrl>#sitestile75</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.610556,-25.526944,24.000000</coordinates>
+</Point>
+<description>
+Lat: -25.526944
+Lng: -54.610556
+Elevation: 190.1 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6457
+StatCode: S6457
+Tower Height: 24.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile76">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>STA FE</name>
+<styleUrl>#sitestile76</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.688889,-25.213333,24.000000</coordinates>
+</Point>
+<description>
+Lat: -25.213333
+Lng: -54.688889
+Elevation: 295.0 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6461
+StatCode: S6461
+Tower Height: 24.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile77">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>STA FE</name>
+<styleUrl>#sitestile77</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.588056,-25.379722,30.000000</coordinates>
+</Point>
+<description>
+Lat: -25.379722
+Lng: -54.588056
+Elevation: 208.7 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6459
+StatCode: S6459
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile78">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Campamento central</name>
+<styleUrl>#sitestile78</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.953611,-24.957500,60.000000</coordinates>
+</Point>
+<description>
+Lat: -24.957500
+Lng: -54.953611
+Elevation: 354.1 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6455
+StatCode: S6455
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile79">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Itabo</name>
+<styleUrl>#sitestile79</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.710833,-25.067778,72.000000</coordinates>
+</Point>
+<description>
+Lat: -25.067778
+Lng: -54.710833
+Elevation: 290.5 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6465
+StatCode: S6465
+Tower Height: 72.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile80">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>LIMOY</name>
+<styleUrl>#sitestile80</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-54.456389,-25.757778,60.000000</coordinates>
+</Point>
+<description>
+Lat: -25.757778
+Lng: -54.456389
+Elevation: 256.2 (m)
+State: Ciudad del Este
+OwnerCode: Itaipu
+CallSign: S6463
+StatCode: S6463
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile81">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Est. Pozo Azul</name>
+<styleUrl>#sitestile81</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.396306,-22.238167,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.238167
+Lng: -59.396306
+Elevation: 117.6 (m)
+OwnerCode: TELECEL S.A.
+CallSign: TE4530
+StatCode: TE4530
+OperatorCode: TELECEL S.A.
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile82">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Loma Plata</name>
+<styleUrl>#sitestile82</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.814400,-22.373300,60.000000</coordinates>
+</Point>
+<description>
+Lat: -22.373300
+Lng: -59.814400
+Elevation: 131.3 (m)
+OwnerCode: TELECEL S.A.
+CallSign: TE4531
+StatCode: TE4531
+OperatorCode: TELECEL S.A.
+Tower Height: 60.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile83">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH562 Centinela</name>
+<styleUrl>#sitestile83</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.183400,-22.079539,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.079539
+Lng: -59.183400
+Elevation: 117.3 (m)
+State: BOQUERON
+OwnerCode: TELECEL
+CallSign: GH562_1
+StatCode: GH562_1
+OperatorCode: TELECEL
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile84">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH101 Loma Plata(km180)</name>
+<styleUrl>#sitestile84</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.570900,-22.056400,90.000000</coordinates>
+</Point>
+<description>
+Lat: -22.056400
+Lng: -59.570900
+Elevation: 125.6 (m)
+State: BOQUERON
+OwnerCode: TELECEL
+CallSign: GH101_2
+StatCode: GH101_2
+OperatorCode: TELECEL
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile85">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH770 RAMAL POZO CONCP1</name>
+<styleUrl>#sitestile85</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-58.446697,-23.503278,84.000000</coordinates>
+</Point>
+<description>
+Lat: -23.503278
+Lng: -58.446697
+Elevation: 92.0 (m)
+CallSign: GFD65
+StatCode: GFD65
+OperatorCode: TELECEL
+Tower Height: 84.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile86">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH048 POZO COLORADO</name>
+<styleUrl>#sitestile86</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-58.799397,-23.490600,120.000000</coordinates>
+</Point>
+<description>
+Lat: -23.490600
+Lng: -58.799397
+Elevation: 101.4 (m)
+CallSign: GFD66
+StatCode: GFD66
+OperatorCode: TELECEL
+Tower Height: 120.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile87">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH771 RAMAL POZO CONC2</name>
+<styleUrl>#sitestile87</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-58.155581,-23.500639,84.000000</coordinates>
+</Point>
+<description>
+Lat: -23.500639
+Lng: -58.155581
+Elevation: 89.7 (m)
+CallSign: CFT45
+StatCode: CFT45
+OperatorCode: TELECEL
+Tower Height: 84.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile88">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH772 RAMAL POZO CONC3</name>
+<styleUrl>#sitestile88</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.754350,-23.513406,90.000000</coordinates>
+</Point>
+<description>
+Lat: -23.513406
+Lng: -57.754350
+Elevation: 77.9 (m)
+CallSign: CFT46
+StatCode: CFT46
+OperatorCode: TELECEL
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile89">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>TIEGE</name>
+<styleUrl>#sitestile89</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.941944,-22.776944,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.776944
+Lng: -59.941944
+Elevation: 130.4 (m)
+State: BOQUERON
+OwnerCode: TELECEL
+CallSign: H934
+StatCode: H934
+OperatorCode: TELECEL
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile90">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>CRUCE PIONEROS</name>
+<styleUrl>#sitestile90</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.749444,-22.843889,84.000000</coordinates>
+</Point>
+<description>
+Lat: -22.843889
+Lng: -59.749444
+Elevation: 123.6 (m)
+State: PDTE HAYES
+OwnerCode: TELECEL
+CallSign: H935
+StatCode: H935
+OperatorCode: TELECEL
+Tower Height: 84.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile91">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GM647 Est. Pozo Azul</name>
+<styleUrl>#sitestile91</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.396306,-22.238167,30.000000</coordinates>
+</Point>
+<description>
+Lat: -22.238167
+Lng: -59.396306
+Elevation: 117.6 (m)
+State: PTE HAYES
+OwnerCode: TELECEL
+CallSign: GM647_G998
+StatCode: GM647_G998
+OperatorCode: TELECEL
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile92">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH047 Loma Plata</name>
+<styleUrl>#sitestile92</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.814400,-22.373300,90.000000</coordinates>
+</Point>
+<description>
+Lat: -22.373300
+Lng: -59.814400
+Elevation: 131.3 (m)
+State: BOQUERON
+OwnerCode: TELECEL
+CallSign: GH047_G999
+StatCode: GH047_G999
+OperatorCode: TELECEL
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile93">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GM648 Est. Lagun Pora</name>
+<styleUrl>#sitestile93</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.446917,-22.490750,35.000000</coordinates>
+</Point>
+<description>
+Lat: -22.490750
+Lng: -59.446917
+Elevation: 115.6 (m)
+State: PTE HAYES
+OwnerCode: TELECEL
+CallSign: GM648_L232_1
+StatCode: GM648_L232_1
+OperatorCode: TELECEL
+Tower Height: 35.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile94">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH307 Cruce Pionero</name>
+<styleUrl>#sitestile94</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-59.771500,-22.672100,102.000000</coordinates>
+</Point>
+<description>
+Lat: -22.672100
+Lng: -59.771500
+Elevation: 124.7 (m)
+State: PTE HAYES
+OwnerCode: TELECEL
+CallSign: GH307_L233_2
+StatCode: GH307_L233_2
+OperatorCode: TELECEL
+Tower Height: 102.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile95">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GN127 Puerto Yvapovo</name>
+<styleUrl>#sitestile95</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.396139,-23.656531,45.000000</coordinates>
+</Point>
+<description>
+Lat: -23.656531
+Lng: -57.396139
+Elevation: 75.0 (m)
+State: CONCEPCION
+OwnerCode: TELECEL
+CallSign: GN127_05
+StatCode: GN127_05
+OperatorCode: TELECEL
+Tower Height: 45.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile96">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GN250 Concepcion</name>
+<styleUrl>#sitestile96</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.440697,-23.411697,65.000000</coordinates>
+</Point>
+<description>
+Lat: -23.411697
+Lng: -57.440697
+Elevation: 73.6 (m)
+State: CONCEPCION
+OwnerCode: TELECEL
+CallSign: GN250_06
+StatCode: GN250_06
+OperatorCode: TELECEL
+Tower Height: 65.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile97">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GO882 COLONIA GUARANI</name>
+<styleUrl>#sitestile97</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.066700,-25.898900,30.000000</coordinates>
+</Point>
+<description>
+Lat: -25.898900
+Lng: -56.066700
+Elevation: 335.4 (m)
+State: GUAIRA
+OwnerCode: TELECEL
+CallSign: GO882
+StatCode: GO882
+OperatorCode: TELECEL
+Tower Height: 30.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile98">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GO578 YROYSA LINEA 13</name>
+<styleUrl>#sitestile98</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.047600,-25.855900,90.000000</coordinates>
+</Point>
+<description>
+Lat: -25.855900
+Lng: -56.047600
+Elevation: 287.7 (m)
+State: GUAIRA
+OwnerCode: TELECEL
+CallSign: GO578
+StatCode: GO578
+OperatorCode: TELECEL
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile99">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>LAUREL (CONCEPCION)</name>
+<styleUrl>#sitestile99</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.289167,-22.250000,120.000000</coordinates>
+</Point>
+<description>
+Lat: -22.250000
+Lng: -57.289167
+Elevation: 121.0 (m)
+State: CONCEPCION
+OwnerCode: TELECEL
+CallSign: J408
+StatCode: J408
+OperatorCode: TELECEL
+Tower Height: 120.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile100">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>PUENTESIÑO</name>
+<styleUrl>#sitestile100</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.918889,-22.382778,120.000000</coordinates>
+</Point>
+<description>
+Lat: -22.382778
+Lng: -56.918889
+Elevation: 203.4 (m)
+State: CONCEPCION
+OwnerCode: TELECEL
+CallSign: J409
+StatCode: J409
+OperatorCode: TELECEL
+Tower Height: 120.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile101">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GH772 RamalPozoConcpIII</name>
+<styleUrl>#sitestile101</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.754350,-23.513408,90.000000</coordinates>
+</Point>
+<description>
+Lat: -23.513408
+Lng: -57.754350
+Elevation: 77.9 (m)
+CallSign: GH772-GN250
+StatCode: GH772-GN250
+OperatorCode: TELECEL
+Tower Height: 90.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile102">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>GN250 Concepcion</name>
+<styleUrl>#sitestile102</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-57.440697,-23.411694,102.000000</coordinates>
+</Point>
+<description>
+Lat: -23.411694
+Lng: -57.440697
+Elevation: 73.6 (m)
+CallSign: GN250-GH772
+StatCode: GN250-GH772
+OperatorCode: TELECEL
+Tower Height: 102.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile103">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Central Hidroelectrica</name>
+<styleUrl>#sitestile103</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.742500,-27.481111,59.000000</coordinates>
+</Point>
+<description>
+Lat: -27.481111
+Lng: -56.742500
+Elevation: 53.2 (m)
+State: Misiones
+OwnerCode: YASYRETA
+CallSign: TE100
+StatCode: YASY01
+OperatorCode: DIE
+Tower Height: 59.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile104">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Oficina Isla Yasyreta</name>
+<styleUrl>#sitestile104</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.760556,-27.487778,97.000000</coordinates>
+</Point>
+<description>
+Lat: -27.487778
+Lng: -56.760556
+Elevation: 65.6 (m)
+State: Misiones
+OwnerCode: YASYRETA
+CallSign: YASY02
+StatCode: YASY02
+OperatorCode: DIE
+Tower Height: 97.0
+Tower Type: unknown
+</description>
+</Placemark>
+<Style id="sitestile105">      
+	<IconStyle>  
+		<color>ff000000</color>         
+		<Icon>            
+			<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href> 
+		</Icon>  
+	</IconStyle>   
+<LineStyle>
+		<color>ff000000</color>         
+		<width>2</width>         
+</LineStyle>
+</Style>  
+<Placemark>
+<name>Villa Permanente</name>
+<styleUrl>#sitestile105</styleUrl>
+<Point>
+<extrude>1</extrude>
+<altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-56.675833,-27.628611,97.000000</coordinates>
+</Point>
+<description>
+Lat: -27.628611
+Lng: -56.675833
+Elevation: 66.6 (m)
+OwnerCode: ANDE
+CallSign: TE101
+StatCode: TE101
+Tower Height: 97.0
+Tower Type: unknown
+</description>
+</Placemark>
+</Folder>
+</Document>
+</kml>
